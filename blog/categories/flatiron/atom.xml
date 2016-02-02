@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flatiron | Alex G Blog]]></title>
+  <link href="http://alexgriff.github.io/blog/categories/flatiron/atom.xml" rel="self"/>
+  <link href="http://alexgriff.github.io/"/>
+  <updated>2016-02-02T15:28:52-05:00</updated>
+  <id>http://alexgriff.github.io/</id>
+  <author>
+    <name><![CDATA[Alex Griffith]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://alexgriff.github.io/blog/2016/02/02/first-post/"/>
+    <updated>2016-02-02T15:12:49-05:00</updated>
+    <id>http://alexgriff.github.io/blog/2016/02/02/first-post</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello, World!&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
